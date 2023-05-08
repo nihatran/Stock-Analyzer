@@ -1,0 +1,13 @@
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\bin\Debug\Stock Analyzer.exe.config
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\bin\Debug\Stock Analyzer.exe
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\bin\Debug\Stock Analyzer.pdb
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock Analyzer.csproj.AssemblyReference.cache
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock Analyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock_Analyzer.FormStockLoader.resources
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock_Analyzer.FormStockViewerChart.resources
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock_Analyzer.FormStockViewerDataGridView.resources
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock_Analyzer.Properties.Resources.resources
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock Analyzer.csproj.GenerateResource.cache
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock Analyzer.exe
+C:\Users\nihat\Documents\PC Files\College\USF\COP-2513\Stock Analyzer\Stock Analyzer\obj\Debug\Stock Analyzer.pdb
