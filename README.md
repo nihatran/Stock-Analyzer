@@ -15,7 +15,7 @@ Notes
 * To add more stock files (.csv), navigate to bin > Debug > Stock Data
 <br />
 
-![image](https://github.com/nihatran/Stock-Analyzer/assets/89045243/ad922d03-8d97-475b-8225-3882a166b3fc) 
+![image](https://github.com/nihatran/Stock-Analyzer/assets/89045243/f3b43d85-41c7-4451-9e78-62d4b9b9d918)
 ![image](https://github.com/nihatran/Stock-Analyzer/assets/89045243/70a62684-6c39-4e1f-b3d3-a76818ff3ab8)
 ![image](https://github.com/nihatran/Stock-Analyzer/assets/89045243/e715d9e2-26ee-4556-800d-41be1e62b1b1)
 ![image](https://github.com/nihatran/Stock-Analyzer/assets/89045243/7331949d-bbfe-4b34-a8e4-7dd804cbcf96)
